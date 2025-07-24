@@ -7,7 +7,7 @@ Keep in mind that gifs will not be downloaded in their original file type, but r
 ### Dependencies:
 - [Python 3](https://www.python.org/downloads/)
 - Selenium Extension [pip install selenium requests pillow]
-- [ChromeDriver](https://chromedriver.chromium.org/downloads)
+- [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 - Either [Chrome](https://www.google.com/chrome/) or [Brave](https://brave.com/) browser
 
 ### Usage:
