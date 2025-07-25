@@ -12,7 +12,7 @@ Keep in mind that gifs will not be downloaded in their original file type, but r
 
 ### Usage:
 1. Download either the **Brave** or **Chrome** folders from the directory
-2. Open *start.bat* (or the *media_downloader.py*)
+2. Open *start.bat* (or *media_downloader.py*)
 3. Follow the instructions!
 
 I really made this only for myself as I constantly like tweets with images/videos, and I'd like to keep them preserved on my computer - but I figured maybe there's someone out there who'll use this. If you're that person, I hope this serves you well!
