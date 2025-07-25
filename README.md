@@ -1,4 +1,4 @@
-# Twitter Media Likes Downloader (v1.1)
+# Twitter Media Likes Downloader (v1.101)
 This tool is a Python script ran in Command Prompt that uses ChromeDriver and Selenium to bulk-download all pieces of media from your Twitter likes, in the highest quality possible.
 
 This is done by opening a ChromeDriver tab which prompts you to login to Twitter. Once you've done so (and followed the instructions), it will automatically scroll down through your likes and download every piece of media it comes across. 
