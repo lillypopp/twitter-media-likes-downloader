@@ -118,7 +118,7 @@ def main():
 
     global watermark
     watermark = "\n        00000000                                                                            \n             00000000       0000                  000        0000000000000                  \n                 0000         0000000         00000000000                0000000            \n                 0000           0000000   00000      000000                  00000          \n                 0000               00000000             00000                 0000         \n                 0000                                    00000      00000        00         \n                 0000                                  00000      000000000      000        \n                 0000                                00000        000   000     000         \n                 0000000                            0000          0000000      0000         \n                  000000000000000                 0000                        0000          \n                              000               000                        00000            \n                              000             0000            00      0000000               \n                              000           0000            000000000000                    \n                              000         0000             00000                            \n                               00       000000           00000                              \n                                       00000            0000                                \n                       0000         000000            00000                                 \n                        0000000   000000            000000                                  \n                            000000000     0000000  0000                                     \n                                                000000                                      "
-    print(f"{watermark}\n\n=== WELCOME TO THE TWITTER MEDIA LIKES DOWNLOADER v1.1 ===\n\nThanks for using this tool! ^^\n\nThis Python script uses ChromeDriver and Selenium with Chrome/Brave to bulk-download all pieces of media from your Twitter likes, in the highest quality possible.\n*Keep in mind that gifs will NOT be downloaded as gifs but rather in video form to preserve quality.*\n\n")
+    print(f"{watermark}\n\n=== WELCOME TO THE TWITTER MEDIA LIKES DOWNLOADER v1.101 ===\n\nThanks for using this tool! ^^\n\nThis Python script uses ChromeDriver and Selenium with Chrome/Brave to bulk-download all pieces of media from your Twitter likes, in the highest quality possible.\n*Keep in mind that gifs will NOT be downloaded as gifs but rather in video form to preserve quality.*\n\n")
 
     default_brave_dir = "C:/Program Files/BraveSoftware/Brave-Browser/Application"
 
@@ -265,7 +265,7 @@ def main():
 
     max_scrolls_val = max_scrolls if max_scrolls > 0 else 10**9
     no_media_scrolls = 0
-    max_no_media_scrolls = 5
+    max_no_media_scrolls = 20
 
     try:
         for i in range(max_scrolls_val):
