@@ -11,7 +11,7 @@ Keep in mind that gifs will not be downloaded in their original file type, but r
 - Either [Chrome](https://www.google.com/chrome/) or [Brave](https://brave.com/) browser
 
 ### Usage:
-1. Download either the **Brave** or **Chrome** folders from the directory
+1. Download the files
 2. Open *start.bat* (or *media_downloader.py*)
 3. Follow the instructions!
 
